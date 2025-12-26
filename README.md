@@ -62,58 +62,6 @@ Specializing in cross-platform mobile applications using **React** and **React N
 
 ---
 
-## 📊 GitHub Stats
-
-![Empty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
-## 📈 Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&area=true&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)
-
----
-
-## 📫 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-## 🚀 Featured Projects
-
-### 📱 [Project 1 - Mobile App]
-> A React Native app with [features]
-
-![React Native](https://img.shields.io/badge/React_Native-✅-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-✅-blue)
-![Firebase](https://img.shields.io/badge/Firebase-✅-orange)
-
-### 🌐 [Project 2 - Web Dashboard]
-> React-based admin dashboard
-
-![React](https://img.shields.io/badge/React-✅-brightgreen)
-![Redux](https://img.shields.io/badge/Redux-✅-purple)
-![Chart.js](https://img.shields.io/badge/Chart.js-✅-yellow)
-
-### ⚡ [Project 3 - Utility Library]
-> React Native utilities and components
-
-![NPM](https://img.shields.io/badge/NPM_Package-✅-red)
-![TypeScript](https://img.shields.io/badge/TypeScript-✅-blue)
-![Documentation](https://img.shields.io/badge/Docs-✅-green)
-
----
-
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
