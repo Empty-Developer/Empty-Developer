@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Empty!
+# Hi, I'm Empty!
 
 ## 💻 Mobile App Developer
 
