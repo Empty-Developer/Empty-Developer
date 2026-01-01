@@ -70,10 +70,10 @@ Specializing in cross-platform mobile applications using **React** and **React N
 
 ## 📊 Development Metrics
 
-**This Week's Activity:**
+**This Activity:**
 ```text
 📱 React Native:  ████████░░ 80%
-⚛️  React:        ██████░░░░ 60%
+⚛️  React:        ████████░░ 80%
 📊 State Mgmt:    █████░░░░░ 50%
 🎨 UI/UX:         ███████░░░ 70%
-🔧 Tooling:       ████░░░░░░ 40%
+🔧 Tooling:       ██████░░░░ 60%
