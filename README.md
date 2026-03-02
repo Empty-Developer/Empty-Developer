@@ -29,6 +29,7 @@ Specializing in cross-platform mobile applications using **React** and **React N
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![PostgresSQL](https://camo.githubusercontent.com/95ed43a2ddd5867e86355eaa5b8aa800bf784fa823bf87c48128f9caee4e584d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
 
 ### Platforms
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -61,12 +62,6 @@ Specializing in cross-platform mobile applications using **React** and **React N
 - **API integration** (REST, GraphQL, WebSocket)
 - **Offline capabilities** and data persistence
 - **Push notifications** and deep linking
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
