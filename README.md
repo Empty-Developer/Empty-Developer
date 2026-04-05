@@ -42,31 +42,6 @@ Specializing in cross-platform mobile applications using **React** and **React N
 
 ---
 
-## 📱 What I Do
-
-### 🔧 Mobile Development
-- **Cross-platform apps** with React Native
-- **iOS & Android** deployment and optimization
-- **Performance tuning** and memory management
-- **Native module integration** when needed
-- **App Store & Play Store** publishing
-
-### 🎨 UI/UX Implementation
-- **Custom component libraries**
-- **Smooth animations** and transitions
-- **Responsive layouts** for all screen sizes
-- **Theme systems** and dark mode support
-- **Accessibility** implementation
-
-### ⚙️ Technical Expertise
-- **State management** (Redux, Context API, Zustand)
-- **Navigation architecture** (React Navigation)
-- **API integration** (REST, GraphQL, WebSocket)
-- **Offline capabilities** and data persistence
-- **Push notifications** and deep linking
-
----
-
 ## 📊 Development Metrics
 
 **This Activity:**
